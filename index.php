@@ -3,7 +3,7 @@
 
 <div class="container">
     <br>
-    <h3>Alzen Landyan</h3>
+    <h3 class="text-success">Alzen Landyan</h3>
     <h3>A01403978</h3>
 
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
